@@ -1,3 +1,5 @@
 .vscode/
 .vscode.zip
-
+__pycache__/
+*.pyc
+test_results.json
