@@ -2,11 +2,17 @@
   "name": "pathoai",
   "version": "1.0.0",
   "description": "Pathology AI web app",
-  "main": "server.js",
+  "main": "js/server.js",
+  "homepage": "https://MaheshZU9908.github.io/pdd_patho",
   "scripts": {
-    "start": "node server.js"
+    "start": "node js/server.js",
+    "predeploy": "echo 'No build step required for static frontend'",
+    "deploy": "gh-pages -d ."
   },
   "author": "",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
