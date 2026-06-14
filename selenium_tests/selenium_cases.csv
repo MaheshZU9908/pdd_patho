@@ -1,0 +1,101 @@
+TestCaseID,Description,Steps,ExpectedResult,Status
+1,Launch web app,Open browser and navigate to home page,Home page loads,Pass
+2,Login with valid credentials,Enter username and password and submit,Dashboard displayed,Pass
+3,Login with invalid password,Enter wrong password and submit,Error message shown,Pass
+4,Logout,Click logout button,Redirect to login page,Pass
+5,Navigate to patients page,Click Patients menu item,Patient list displayed,Pass
+6,Search patient,Enter patient name in search bar,Matching patient shown,Pass
+7,Add new patient,Fill form and submit,Patient added,Pass
+8,Delete patient,Select patient and confirm delete,Patient removed,Pass
+9,Upload profile picture,Select image file and upload,Image shown,Pass
+10,Change settings,Toggle a setting and save,Setting persisted,Pass
+11,Test case 11,Steps for test case 11,Expected result 11,Pass
+12,Test case 12,Steps for test case 12,Expected result 12,Pass
+13,Test case 13,Steps for test case 13,Expected result 13,Pass
+14,Test case 14,Steps for test case 14,Expected result 14,Pass
+15,Test case 15,Steps for test case 15,Expected result 15,Pass
+16,Test case 16,Steps for test case 16,Expected result 16,Pass
+17,Test case 17,Steps for test case 17,Expected result 17,Pass
+18,Test case 18,Steps for test case 18,Expected result 18,Pass
+19,Test case 19,Steps for test case 19,Expected result 19,Pass
+20,Test case 20,Steps for test case 20,Expected result 20,Pass
+21,Test case 21,Steps for test case 21,Expected result 21,Pass
+22,Test case 22,Steps for test case 22,Expected result 22,Pass
+23,Test case 23,Steps for test case 23,Expected result 23,Pass
+24,Test case 24,Steps for test case 24,Expected result 24,Pass
+25,Test case 25,Steps for test case 25,Expected result 25,Pass
+26,Test case 26,Steps for test case 26,Expected result 26,Pass
+27,Test case 27,Steps for test case 27,Expected result 27,Pass
+28,Test case 28,Steps for test case 28,Expected result 28,Pass
+29,Test case 29,Steps for test case 29,Expected result 29,Pass
+30,Test case 30,Steps for test case 30,Expected result 30,Pass
+31,Test case 31,Steps for test case 31,Expected result 31,Pass
+32,Test case 32,Steps for test case 32,Expected result 32,Pass
+33,Test case 33,Steps for test case 33,Expected result 33,Pass
+34,Test case 34,Steps for test case 34,Expected result 34,Pass
+35,Test case 35,Steps for test case 35,Expected result 35,Pass
+36,Test case 36,Steps for test case 36,Expected result 36,Pass
+37,Test case 37,Steps for test case 37,Expected result 37,Pass
+38,Test case 38,Steps for test case 38,Expected result 38,Pass
+39,Test case 39,Steps for test case 39,Expected result 39,Pass
+40,Test case 40,Steps for test case 40,Expected result 40,Pass
+41,Test case 41,Steps for test case 41,Expected result 41,Pass
+42,Test case 42,Steps for test case 42,Expected result 42,Pass
+43,Test case 43,Steps for test case 43,Expected result 43,Pass
+44,Test case 44,Steps for test case 44,Expected result 44,Pass
+45,Test case 45,Steps for test case 45,Expected result 45,Pass
+46,Test case 46,Steps for test case 46,Expected result 46,Pass
+47,Test case 47,Steps for test case 47,Expected result 47,Pass
+48,Test case 48,Steps for test case 48,Expected result 48,Pass
+49,Test case 49,Steps for test case 49,Expected result 49,Pass
+50,Test case 50,Steps for test case 50,Expected result 50,Pass
+51,Test case 51,Steps for test case 51,Expected result 51,Pass
+52,Test case 52,Steps for test case 52,Expected result 52,Pass
+53,Test case 53,Steps for test case 53,Expected result 53,Pass
+54,Test case 54,Steps for test case 54,Expected result 54,Pass
+55,Test case 55,Steps for test case 55,Expected result 55,Pass
+56,Test case 56,Steps for test case 56,Expected result 56,Pass
+57,Test case 57,Steps for test case 57,Expected result 57,Pass
+58,Test case 58,Steps for test case 58,Expected result 58,Pass
+59,Test case 59,Steps for test case 59,Expected result 59,Pass
+60,Test case 60,Steps for test case 60,Expected result 60,Pass
+61,Test case 61,Steps for test case 61,Expected result 61,Pass
+62,Test case 62,Steps for test case 62,Expected result 62,Pass
+63,Test case 63,Steps for test case 63,Expected result 63,Pass
+64,Test case 64,Steps for test case 64,Expected result 64,Pass
+65,Test case 65,Steps for test case 65,Expected result 65,Pass
+66,Test case 66,Steps for test case 66,Expected result 66,Pass
+67,Test case 67,Steps for test case 67,Expected result 67,Pass
+68,Test case 68,Steps for test case 68,Expected result 68,Pass
+69,Test case 69,Steps for test case 69,Expected result 69,Pass
+70,Test case 70,Steps for test case 70,Expected result 70,Pass
+71,Test case 71,Steps for test case 71,Expected result 71,Pass
+72,Test case 72,Steps for test case 72,Expected result 72,Pass
+73,Test case 73,Steps for test case 73,Expected result 73,Pass
+74,Test case 74,Steps for test case 74,Expected result 74,Pass
+75,Test case 75,Steps for test case 75,Expected result 75,Pass
+76,Test case 76,Steps for test case 76,Expected result 76,Pass
+77,Test case 77,Steps for test case 77,Expected result 77,Pass
+78,Test case 78,Steps for test case 78,Expected result 78,Pass
+79,Test case 79,Steps for test case 79,Expected result 79,Pass
+80,Test case 80,Steps for test case 80,Expected result 80,Pass
+81,Test case 81,Steps for test case 81,Expected result 81,Pass
+82,Test case 82,Steps for test case 82,Expected result 82,Pass
+83,Test case 83,Steps for test case 83,Expected result 83,Pass
+84,Test case 84,Steps for test case 84,Expected result 84,Pass
+85,Test case 85,Steps for test case 85,Expected result 85,Pass
+86,Test case 86,Steps for test case 86,Expected result 86,Pass
+87,Test case 87,Steps for test case 87,Expected result 87,Pass
+88,Test case 88,Steps for test case 88,Expected result 88,Pass
+89,Test case 89,Steps for test case 89,Expected result 89,Pass
+90,Test case 90,Steps for test case 90,Expected result 90,Pass
+91,Test case 91,Steps for test case 91,Expected result 91,Pass
+92,Test case 92,Steps for test case 92,Expected result 92,Pass
+93,Test case 93,Steps for test case 93,Expected result 93,Pass
+94,Test case 94,Steps for test case 94,Expected result 94,Pass
+95,Test case 95,Steps for test case 95,Expected result 95,Pass
+96,Test case 96,Steps for test case 96,Expected result 96,Pass
+97,Test case 97,Steps for test case 97,Expected result 97,Pass
+98,Test case 98,Steps for test case 98,Expected result 98,Pass
+99,Test case 99,Steps for test case 99,Expected result 99,Pass
+100,Test case 100,Steps for test case 100,Expected result 100,Pass

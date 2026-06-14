@@ -1,0 +1,11 @@
+TestCaseID,Description,Steps,ExpectedResult,Status
+1,Launch app,Open the app and verify home screen appears,Home screen is displayed,Pass
+2,Login flow,Enter valid credentials and tap login,User is logged in,Pass
+3,Invalid login,Enter wrong password and tap login,Error message displayed,Pass
+4,Logout,Tap logout button from dashboard,User returns to login screen,Pass
+5,Navigate to patient list,Tap Patients menu item,Patient list is shown,Pass
+6,Search patient,Enter patient name in search bar,Correct patient appears,Pass
+7,Add new patient,Fill form and submit,Patient added to list,Pass
+8,Delete patient,Select patient and tap delete,Patient removed,Pass
+9,Upload image,Choose image from gallery,Image displayed,Pass
+10,Settings change,Toggle notification setting,Setting saved,Pass

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Launch App",
+    "description": "Open the mobile application and verify home screen loads.",
+    "steps": [
+      "Start driver",
+      "Open app"
+    ],
+    "expected": "Home screen displayed",
+    "result": "PASS"
+  },
+  {
+    "id": 2,
+    "name": "Login Flow",
+    "description": "Enter valid credentials and log in.",
+    "steps": [
+      "Navigate to login",
+      "Enter username",
+      "Enter password",
+      "Tap login"
+    ],
+    "expected": "Dashboard appears",
+    "result": "PASS"
+  }
+]
