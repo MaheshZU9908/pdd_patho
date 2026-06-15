@@ -3,3 +3,6 @@
 __pycache__/
 *.pyc
 test_results.json
+.gradle/
+**/.gradle/
+*.lock
